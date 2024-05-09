@@ -1,3 +1,3 @@
 # git-test
 
-this is my new file
+edited file
